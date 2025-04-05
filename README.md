@@ -41,7 +41,7 @@ Dataset Features
 - Consider providing flexible payment plans that allow customers to spread the cost over several months. This can make the treadmill more accessible to customers with varying budgets.
 - This can enhance the overall treadmill experience and keep users engaged.
 
-## 👤 Customer Profiling
+## 👤Customer Profiling
 
 **Customer Profile for KP281 Treadmill:**
 
