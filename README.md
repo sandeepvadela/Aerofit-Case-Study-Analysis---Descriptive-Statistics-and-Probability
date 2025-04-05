@@ -1,4 +1,4 @@
-# Aerofit-Case-Study-Analysis - Descriptive-Statistics-and-Probability
+# Aerofit CaseStudy Analysis - Descriptive Statistics and Probability
 
 🎯 Objective
 
